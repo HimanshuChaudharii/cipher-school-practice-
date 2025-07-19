@@ -48,8 +48,8 @@ class Student{
 			book1.display();
 			book2.display();
 			Student student = new Student();
-			student.setName("Anchal kumari");
-			student.setRoll(25);
+			student.setName("Himanshu Chaudhari");
+			student.setRoll(35);
 			student.setGrade('A');
 			System.out.println("Student Name: "+student.getName());
 			System.out.println("Roll Number: "+ student.getRoll());
