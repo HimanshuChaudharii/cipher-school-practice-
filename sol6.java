@@ -41,7 +41,7 @@ class Bike extends Vehicle{
 }
 	public class Main {
 		public static void main(String[] args) {
-			Employee emp = new Employee("Anchal",20,"EMP123",500000.00);
+			Employee emp = new Employee("Himanshu",21,"EMP123",1000000.00);
 			emp.printDetails();
 			Vehicle myCar=new Car();
 			Vehicle myBike=new Bike();
