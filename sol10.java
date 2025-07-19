@@ -12,7 +12,7 @@
         }
         
 		public static void main(String[] args) {
-            greetUser("Anchal");
+            greetUser("Himanshu");
             int n=7;
             if(isEven(n)){
                 System.out.println(n+" is even.");
